@@ -19,6 +19,7 @@
 
 # Hierarchical Bayesian quantile Regression Model # 
 # for Td
+
 bayes_cc_qreg_wr_multilevel <- function() {
   for(i in 1:nsites)
   {
@@ -66,6 +67,7 @@ bayes_cc_qreg_wr_multilevel <- function() {
 # -----------------------------------------------------------------------------------------------------------------------------------
 # Hierarchical Bayesian Quantile Regression Model # 
 # for Ta
+
 bayes_cc_qreg_wr_multilevel <- function() {
   for(i in 1:nsites)
   {
@@ -113,6 +115,7 @@ bayes_cc_qreg_wr_multilevel <- function() {
 # -----------------------------------------------------------------------------------------------------------------------------------
 # Bayesian Quantile Regression Model # 
 # for Td
+
 bayes_cc_qreg_wr_singlelevel <- function() {
   for(i in 1:nsites)
   {
@@ -138,6 +141,7 @@ bayes_cc_qreg_wr_singlelevel <- function() {
 # -----------------------------------------------------------------------------------------------------------------------------------
 # Bayesian Quantile Regression Model # 
 # for Ta
+
 bayes_cc_qreg_wr_singlelevel <- function() {
   for(i in 1:nsites)
   {
