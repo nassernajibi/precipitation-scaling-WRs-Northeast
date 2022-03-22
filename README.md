@@ -1,6 +1,6 @@
-#Hierarchical Bayesian Quantile Regression Model
+# Hierarchical Bayesian Quantile Regression Model
 #--------
-#R code for: Precipitation Scaling with Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity
+# R code for: Precipitation Scaling with Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity
 #--------
 
 
