@@ -1,5 +1,5 @@
-## R Code: Hierarchical Bayesian Quantile Regression Model
-
+# Hierarchical Bayesian Quantile Regression Model
+## R Code
 #--------
 
 
