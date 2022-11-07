@@ -20,7 +20,7 @@ Citation: Najibi, N., Mukhopadhyay, S., & Steinschneider, S. (2022). Precipitati
 }
 ```
 
-Department of Biological and Environmental Engineering, Cornell University, Ithaca 14853, NY, United States, nn289@cornell.edu
+Correspondence: Department of Biological and Environmental Engineering, Cornell University, Ithaca 14853, NY, United States, nn289@cornell.edu
 
 Version 1.0 August 2021
 
