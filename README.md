@@ -1,9 +1,7 @@
 # Hierarchical Bayesian Quantile Regression Model
 ## R Code
-#--------
 
-
-Citation: Najibi, N., Mukhopadhyay, S., & Steinschneider, S. (2022). Precipitation Scaling With Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity. Geophysical Research Letters, 49(8), e2021GL097100. https://doi.org/10.1029/2021GL097100
+**Citation: Najibi, N., Mukhopadhyay, S., & Steinschneider, S. (2022). Precipitation Scaling With Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity. Geophysical Research Letters, 49(8), e2021GL097100. https://doi.org/10.1029/2021GL097100**
 
 ```
 @article{najibi2022precipitation,
