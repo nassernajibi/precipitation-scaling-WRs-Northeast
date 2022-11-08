@@ -1,8 +1,6 @@
 # Hierarchical Bayesian Quantile Regression Model
 
-## Welcome to the code repository of hierarchical Bayesian quantile regression model ##
-
-The hierarchical Bayesian quantile regression model was developed in the R Foundation for Statistical Computing Platform Desktop System Type x64-based PC with Intel(R) Core(TM) i7-9700 CPU 3.00 GHz 8 Cores 8 Logical Processors 64.0 GB RAM (64-bit) R version 4.2.0 (RStudio 2022-04-22 ucrt).
+The hierarchical Bayesian quantile regression model was developed in the R Foundation for Statistical Computing Platform Desktop System Type x64-based PC with Intel(R) Core(TM) i7-9700 CPU 3.00 GHz 8 Cores 8 Logical Processors 64.0 GB RAM (64-bit) R version 4.2.0.
 
 Correspondence: Department of Biological and Environmental Engineering, Cornell University, Ithaca 14853, NY, United States, nn289@cornell.edu
 
