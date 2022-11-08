@@ -29,6 +29,6 @@ Version 1.0 August 2021
 - If you have issues related to the software/packages, please raise an issue in the Issues tab.
 - If you have comments, please contact the correspondence of this repository [Nasser Najibi](https://nassernajibi.com) directly.
 
-![image description]([relative/path/in/repository/to/image.svg](https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg))
 
+![Screenshot]([screenshot.png](https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg))
 
