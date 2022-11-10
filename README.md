@@ -29,6 +29,9 @@ Version 1.0 August 2021
 - If you have issues related to the software/packages, please raise an issue in the Issues tab.
 - If you have comments, please contact the correspondence of this repository [Nasser Najibi](https://nassernajibi.com) directly.
 
+### License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nassernajibi/hierarchical-Bayesian-quantile-regression-model/blob/ef2c5dc5bcee79bddd2158fb43f23879a0798066/LICENSE) file for details.
+
 **Disclaimer:**
 You are running the scripts/functions that means you will not blame the author(s)/developer(s) if they break your stuff.
 The scripts/functions are provided AS IS without warranty of any kind. Author(s) disclaim all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. 
