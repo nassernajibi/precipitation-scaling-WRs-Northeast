@@ -7,7 +7,7 @@ Correspondence: Department of Biological and Environmental Engineering, Cornell 
 ### How to cite
 If you use the hierarchical Bayesian quantile regression model script (as a whole, or partially, and/or as a template for your research work), please cite the reference(s) below.
 
-1. Najibi, N., Mukhopadhyay, S., & Steinschneider, S. (2022). Precipitation Scaling With Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity. [Geophysical Research Letters](https://doi.org/10.1029/2021GL097100), 49(8), e2021GL097100.
+Najibi, N., Mukhopadhyay, S., & Steinschneider, S. (2022). Precipitation Scaling With Temperature in the Northeast US: Variations by Weather Regime, Season, and Precipitation Intensity. [Geophysical Research Letters](https://doi.org/10.1029/2021GL097100), 49(8), e2021GL097100.
 
 ```bibtex
 @article{najibi2022precipitation,
