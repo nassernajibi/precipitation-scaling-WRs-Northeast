@@ -1,3 +1,9 @@
+![GitHub](https://img.shields.io/github/license/nassernajibi/Precipitation-Scaling-with-Temperature-in-the-Northeast-US)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nassernajibi/Precipitation-Scaling-with-Temperature-in-the-Northeast-US)
+![GitHub repo size](https://img.shields.io/github/repo-size/nassernajibi/Precipitation-Scaling-with-Temperature-in-the-Northeast-US)
+![GitHub language count](https://img.shields.io/github/languages/count/nassernajibi/Precipitation-Scaling-with-Temperature-in-the-Northeast-US)
+![GitHub last commit](https://img.shields.io/github/last-commit/nassernajibi/Precipitation-Scaling-with-Temperature-in-the-Northeast-US)
+
 # Hierarchical Bayesian Quantile Regression Model
 
 The hierarchical Bayesian quantile regression model was developed in the R Foundation for Statistical Computing Platform Desktop System Type x64-based PC with Intel(R) Core(TM) i7-9700 CPU 3.00 GHz 8 Cores 8 Logical Processors 64.0 GB RAM (64-bit) R version 4.2.0.
